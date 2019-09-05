@@ -1,0 +1,3 @@
+D:/github/badapple/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/badapple/cmake-build-debug/CMakeFiles/badapple.dir
+D:/github/badapple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
